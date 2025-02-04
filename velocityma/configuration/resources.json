@@ -1,0 +1,13 @@
+{
+    "mongodb": "mongodb+srv://dev1:dev2@cluster0.rmnhx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "redis-uri": "redis://localhost:6379",
+    "velocity-secret": "xsamthe123",
+    "limbo-port": "65535",
+    "pterodactyl-mode": false,
+    "spark": false,
+    "require-authentication": true,
+    "host-name": "127.0.0.1",
+    "transfer-timeout": "800",
+    "sandbox-mode": true,
+    "anticheat": true
+  }
